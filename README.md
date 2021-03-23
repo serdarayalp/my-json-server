@@ -26,3 +26,8 @@ DELETE /employees/{id}
 
 http://localhost:3000/employees?first_name=Sebastian
 http://localhost:3000/employees?q=codingthesmartway
+
+# Mocking Data with Faker.js
+```
+json-server employees.js
+```
